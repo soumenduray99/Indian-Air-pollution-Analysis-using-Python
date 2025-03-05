@@ -1,1 +1,1 @@
-# Indian-Air-pollution using SQL and Python(data deployment)
+# Indian-Air-pollution using Python 
